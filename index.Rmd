@@ -1,5 +1,7 @@
 ---
-title: "My Website"
+title: "Odiscé"
 ---
 
-Hello, Website!
+Welcome to the Data Science Team website.
+
+![](images/odisce.png)
