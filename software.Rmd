@@ -2,6 +2,8 @@
 title: "Software"
 ---
 
+![](images/odisce_software.png)
+
 **R packages**
 
 *   **biodb**: a library and a development framework for connecting to chemical and biological databases (by Pierrick Roger; [DOI:10.18129/B9.bioc.biodb](https://doi.org/doi:10.18129/B9.bioc.biodb))
