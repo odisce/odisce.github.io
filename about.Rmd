@@ -2,4 +2,4 @@
 title: "About This Website"
 ---
 
-More about this website.
+This website was generated with the [rmarkdown](https://cran.r-project.org/package=rmarkdown) package.

@@ -2,36 +2,40 @@
 title: "Team"
 ---
 
-*   S. Dechaumet
+-   M. Berger
 
-*   E. Venot
+-   D. Saunier
 
-*   E. Thévenot
+-   S. Dechaumet
 
-**Alumni**
+-   E. Venot
 
-*   C. Roquencourt
+-   E. Thévenot
 
-*   C. Broc
+## **Alumni**
 
-*   K. Biletska
+-   C. Roquencourt
 
-*   P. Roger-Mele
+-   C. Broc
 
-*   A. Imbert
+-   K. Biletska
 
-*   N. Lenuzza
+-   P. Roger-Mele
 
-*   A. Delabriere
+-   A. Imbert
 
-*   P. Zheng
+-   N. Lenuzza
 
-*   P. Rinaudo
+-   A. Delabriere
 
-*   J. Foucquier
+-   P. Zheng
 
-*   C. Fiche
+-   P. Rinaudo
 
-*   M. Gassama
+-   J. Foucquier
 
-*   S. Troncale
+-   C. Fiche
+
+-   M. Gassama
+
+-   S. Troncale
