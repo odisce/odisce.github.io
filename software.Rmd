@@ -6,17 +6,17 @@ title: "Software"
 
 ![](images/odisce_software.png)
 
--   **biodb**: a library and a development framework for connecting to chemical and biological databases (by Pierrick Roger; [DOI:10.18129/B9.bioc.biodb](https://doi.org/doi:10.18129/B9.bioc.biodb))
+-   **biodb**: a library and a development framework for connecting to chemical and biological databases ([DOI:10.18129/B9.bioc.biodb](https://doi.org/doi:10.18129/B9.bioc.biodb))
 
--   **biosigner**: signature discovery from omics data (in collaboration with Philippe Rinaudo; [DOI:10.18129/B9.bioc.biosigner](https://doi.org/10.18129/B9.bioc.biosigner))
+-   **biosigner**: signature discovery from omics data ([DOI:10.18129/B9.bioc.biosigner](https://doi.org/10.18129/B9.bioc.biosigner))
 
 -   **phenomis**: post-processing and univariate analysis of MS data (<https://github.com/SciDoPhenIA/phenomis>)
 
--   **proFIA**: preprocessing of FIA-HRMS data (by Alexis Delabriere; [DOI:10.18129/B9.bioc.proFIA](https://doi.org/10.18129/B9.bioc.proFIA))
+-   **proFIA**: preprocessing of FIA-HRMS data ([DOI:10.18129/B9.bioc.proFIA](https://doi.org/10.18129/B9.bioc.proFIA))
 
--   **ProMetIS**: multi-omics phenotyping of the LAT and MX2 knockout mice (with Alyssa Imbert and the ProMetIS consortium; <https://github.com/IFB-ElixirFr/ProMetIS>)
+-   **ProMetIS**: multi-omics phenotyping of the LAT and MX2 knockout mice (<https://github.com/IFB-ElixirFr/ProMetIS>)
 
--   **ptairMS**: Pre-processing PTR-TOF-MS Data (by Camille Roquencourt; [DOI:10.18129/B9.bioc.ptairMS](https://doi.org/10.18129/B9.bioc.ptairMS))
+-   **ptairMS**: Pre-processing PTR-TOF-MS Data ([DOI:10.18129/B9.bioc.ptairMS](https://doi.org/10.18129/B9.bioc.ptairMS))
 
 -   **ropls**: PCA, PLS(-DA) and OPLS(-DA) for multivariate analysis and feature selection of omics data ([DOI:10.18129/B9.bioc.ropls](https://doi.org/10.18129/B9.bioc.ropls))
 
@@ -32,13 +32,13 @@ title: "Software"
 
 -   Batch Correction (in collaboration with Jean-Francois Martin, Melanie Petera, Marion Landi and Franck Giacomoni)
 
--   Biosigner (in collaboration with Philippe Rinaudo)
+-   Biosigner
 
 -   Heatmap
 
 -   Multivariate
 
--   proFIA (in collaboration with Alexis Delabriere)
+-   proFIA
 
 -   Quality Metrics (in collaboration with Melanie Petera)
 

@@ -13,7 +13,7 @@
 
 <title>Software</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.13/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -60,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -80,6 +81,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -232,7 +236,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -274,13 +278,14 @@ $(document).ready(function () {
 
 
 <p><strong>R packages</strong></p>
+<p><img src="images/odisce_software.png" /></p>
 <ul>
-<li><p><strong>biodb</strong>: a library and a development framework for connecting to chemical and biological databases (by Pierrick Roger; <a href="https://doi.org/doi:10.18129/B9.bioc.biodb">DOI:10.18129/B9.bioc.biodb</a>)</p></li>
-<li><p><strong>biosigner</strong>: signature discovery from omics data (in collaboration with Philippe Rinaudo; <a href="https://doi.org/10.18129/B9.bioc.biosigner">DOI:10.18129/B9.bioc.biosigner</a>)</p></li>
-<li><p><strong>phenomis</strong>: post-processing and univariate analysis of MS data (<a href="https://github.com/SciDoPhenIA/phenomis">https://github.com/SciDoPhenIA/phenomis</a>)</p></li>
-<li><p><strong>proFIA</strong>: preprocessing of FIA-HRMS data (by Alexis Delabriere; <a href="https://doi.org/10.18129/B9.bioc.proFIA">DOI:10.18129/B9.bioc.proFIA</a>)</p></li>
-<li><p><strong>ProMetIS</strong>: multi-omics phenotyping of the LAT and MX2 knockout mice (with Alyssa Imbert and the ProMetIS consortium; <a href="https://github.com/IFB-ElixirFr/ProMetIS">https://github.com/IFB-ElixirFr/ProMetIS</a>)</p></li>
-<li><p><strong>ptairMS</strong>: Pre-processing PTR-TOF-MS Data (by Camille Roquencourt; <a href="https://doi.org/10.18129/B9.bioc.ptairMS">DOI:10.18129/B9.bioc.ptairMS</a>)</p></li>
+<li><p><strong>biodb</strong>: a library and a development framework for connecting to chemical and biological databases (<a href="https://doi.org/doi:10.18129/B9.bioc.biodb">DOI:10.18129/B9.bioc.biodb</a>)</p></li>
+<li><p><strong>biosigner</strong>: signature discovery from omics data (<a href="https://doi.org/10.18129/B9.bioc.biosigner">DOI:10.18129/B9.bioc.biosigner</a>)</p></li>
+<li><p><strong>phenomis</strong>: post-processing and univariate analysis of MS data (<a href="https://github.com/SciDoPhenIA/phenomis" class="uri">https://github.com/SciDoPhenIA/phenomis</a>)</p></li>
+<li><p><strong>proFIA</strong>: preprocessing of FIA-HRMS data (<a href="https://doi.org/10.18129/B9.bioc.proFIA">DOI:10.18129/B9.bioc.proFIA</a>)</p></li>
+<li><p><strong>ProMetIS</strong>: multi-omics phenotyping of the LAT and MX2 knockout mice (<a href="https://github.com/IFB-ElixirFr/ProMetIS" class="uri">https://github.com/IFB-ElixirFr/ProMetIS</a>)</p></li>
+<li><p><strong>ptairMS</strong>: Pre-processing PTR-TOF-MS Data (<a href="https://doi.org/10.18129/B9.bioc.ptairMS">DOI:10.18129/B9.bioc.ptairMS</a>)</p></li>
 <li><p><strong>ropls</strong>: PCA, PLS(-DA) and OPLS(-DA) for multivariate analysis and feature selection of omics data (<a href="https://doi.org/10.18129/B9.bioc.ropls">DOI:10.18129/B9.bioc.ropls</a>)</p></li>
 </ul>
 <p><strong>Datasets; <a href="http://www.ebi.ac.uk/metabolights/index">MetaboLights</a> repository</strong></p>
@@ -292,10 +297,10 @@ $(document).ready(function () {
 <p><strong>Galaxy modules; <a href="https://toolshed.g2.bx.psu.edu">Galaxy</a> toolshed</strong></p>
 <ul>
 <li><p>Batch Correction (in collaboration with Jean-Francois Martin, Melanie Petera, Marion Landi and Franck Giacomoni)</p></li>
-<li><p>Biosigner (in collaboration with Philippe Rinaudo)</p></li>
+<li><p>Biosigner</p></li>
 <li><p>Heatmap</p></li>
 <li><p>Multivariate</p></li>
-<li><p>proFIA (in collaboration with Alexis Delabriere)</p></li>
+<li><p>proFIA</p></li>
 <li><p>Quality Metrics (in collaboration with Melanie Petera)</p></li>
 <li><p>Univariate (in collaboration with Marie Tremblay-Franco)</p></li>
 </ul>
