@@ -2,40 +2,40 @@
 title: "Team"
 ---
 
--   D. Saunier
+-   Dylan Saunier
 
--   S. Dechaumet
+-   Sylvain Dechaumet
 
--   E. Venot
+-   Eric Venot
 
--   E. Thévenot
+-   Etienne Thévenot
 
 ## **Alumni**
 
--   M. Berger
+-   Marina Berger
 
--   C. Roquencourt
+-   Camille Roquencourt
 
--   C. Broc
+-   Camilo Broc
 
--   K. Biletska
+-   Krystyna Biletska
 
--   P. Roger-Mele
+-   Pierrick Roger-Mele
 
--   A. Imbert
+-   Alyssa Imbert
 
--   N. Lenuzza
+-   Natacha Lenuzza
 
--   A. Delabriere
+-   Alexis Delabriere
 
--   P. Zheng
+-   Paul Zheng
 
--   P. Rinaudo
+-   Philippe Rinaudo
 
--   J. Foucquier
+-   Julie Foucquier
 
--   C. Fiche
+-   Cécile Fiche
 
--   M. Gassama
+-   Malamine Gassama
 
--   S. Troncale
+-   Sylvie Troncale

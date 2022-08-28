@@ -1,0 +1,33 @@
+---
+title: "Projects"
+---
+
+## Main projects
+
+### Current
+
+[PeriContALL](https://www.frm.org/recherches-environnement-et-sante/pollution-environnementale/quels-liens-entre-alimentation-perinatale-et-allergies-pendant-enfance): Integrated analysis of the association between perinatal exposure to food contaminants and allergies in childhood (2022-; FRM)
+
+[DECISION](https://decision-for-liver.eu/): DEcompensated CIrrhoSIs: identification of new cOmbiNatorial therapies based on systems approaches (2020-; H2020-RIA-847949)
+
+[InfaDiet](https://anr.fr/Project-ANR-19-CE36-0008): Infant diet and the child's health and development (2019-; ANR-19-CE36-0008)
+
+[MICROB-PREDICT](https://microb-predict.eu/): MICROBiome-based biomarkers to PREDICT decompensation of liver cirrhosis and treatment response (2018-; H2020-RIA-825694)
+
+[CHOPIN](http://rhuchopin.fr): CHolesterol Personalized Innovation (2016-; ANR-26-RHUS-0007)
+
+[MetaboHUB](http://www.metabohub.fr/en): The French infrastructure in metabolomics and fluxomics (2013-; ANR-11-INBS-0010)
+
+### Past
+
+[SoftwAiR](https://anr.fr/Project-ANR-18-CE45-0017): High-throughput processing of real-time and high-resolution mass spectrometry analysis from exhaled air for the characterization of the human volatolome variations in disease and response to pharmacological treatments (2018-2022; ANR-18-CE45-0017)
+
+[ProMetIS](https://www.france-bioinformatique.fr/en/integrative-bioinformatics/): Proteomics and metabolomics data integration (2018-2021; IFB, PHENOMIN, ProFI, MetaboHUB)
+
+[PhenoMeNal](http://phenomenal-h2020.eu/home): A comprehensive and standardized e-infrastructure for analyzing medical metabolic phenotype data (2015-2018; H2020-EINFRA-654241)
+
+[BIOMARGIN](https://cordis.europa.eu/project/id/305499): Biomarkers of renal graft injuries in kidney allograft recipients (2013-2018; FP7-HEALTH-CP-FP-305499)
+
+AgriFood GPS: Integrated AgriFood GPS for untargeted risk assessment (2012-2014; BPI)
+
+[COMPUTIS](https://www.computis.org/): Innovation in Mass Spectrometry Imaging (2006-2010; FP6)
