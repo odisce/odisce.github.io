@@ -2,8 +2,6 @@
 title: "Team"
 ---
 
--   M. Berger
-
 -   D. Saunier
 
 -   S. Dechaumet
@@ -13,6 +11,8 @@ title: "Team"
 -   E. Thévenot
 
 ## **Alumni**
+
+-   M. Berger
 
 -   C. Roquencourt
 

@@ -4,18 +4,17 @@ title: "Odiscé"
 
 ## Welcome to the Data Science Team website
 
-![](images/odisce.png)
+For more than 15 years, our team based at CEA Saclay has been developing innovative methods and software in metabolomic data science for health. Our know-how and the digital ecosystem we have built cover all steps from signal processing of mass spectrometry data, machine learning, variable selection, data integration, annotation and up to reproducible workflow management.
+
+![](images/odisce.png){width="629"}
 
 ## Contact
 
 **Etienne A. Thevenot, PhD**
 
-[Data Sciences for Precision Medicine team (Odiscé)](https://odisce.github.io/)
-
-[Medicines and Healthcare Technologies Department](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/medicines_healthcare_technologies.aspx)
-
-[CEA](http://www.cea.fr/english), [INRAE](https://www.inrae.fr/en), [Université Paris Saclay](https://www.universite-paris-saclay.fr/en), [MetaboHUB](http://www.metabohub.fr/home.html)
-
-[CEA, Centre de Saclay, F-91191 Gif-sur-Yvette Cedex, France](http://www.cea.fr/Documents/plans-des-centres/cea_saclay_map.pdf)
+-   [Data Sciences for Precision Medicine team (Odiscé)](https://odisce.github.io/)
+-   [Medicines and Healthcare Technologies Department](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/medicines_healthcare_technologies.aspx)
+-   [CEA](http://www.cea.fr/english), [INRAE](https://www.inrae.fr/en), [Université Paris Saclay](https://www.universite-paris-saclay.fr/en), [MetaboHUB](http://www.metabohub.fr/home.html)
+-   [CEA, Centre de Saclay, F-91191 Gif-sur-Yvette Cedex, France](http://www.cea.fr/Documents/plans-des-centres/cea_saclay_map.pdf)
 
 **E-mail: etienne \*dot\* thevenot \*at\* cea.fr**
