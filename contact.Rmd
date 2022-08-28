@@ -9,4 +9,4 @@ title: "Contact"
 -   [CEA](http://www.cea.fr/english), [INRAE](https://www.inrae.fr/en), [Université Paris Saclay](https://www.universite-paris-saclay.fr/en), [MetaboHUB](http://www.metabohub.fr/home.html)
 -   [CEA, Centre de Saclay, F-91191 Gif-sur-Yvette Cedex, France](http://www.cea.fr/Documents/plans-des-centres/cea_saclay_map.pdf)
 
-**E-mail: etienne.thevenot\@cea.fr**
+**E-mail: etienne.thevenot \*at\* cea.fr**

@@ -1,10 +1,8 @@
 ---
-title: "Projects"
+title: "Main projects"
 ---
 
-## Main projects
-
-### Current
+## Current
 
 [PeriContALL](https://www.frm.org/recherches-environnement-et-sante/pollution-environnementale/quels-liens-entre-alimentation-perinatale-et-allergies-pendant-enfance): Integrated analysis of the association between perinatal exposure to food contaminants and allergies in childhood (2022-; FRM)
 
@@ -18,7 +16,7 @@ title: "Projects"
 
 [MetaboHUB](http://www.metabohub.fr/en): The French infrastructure in metabolomics and fluxomics (2013-; ANR-11-INBS-0010)
 
-### Past
+## Past
 
 [SoftwAiR](https://anr.fr/Project-ANR-18-CE45-0017): High-throughput processing of real-time and high-resolution mass spectrometry analysis from exhaled air for the characterization of the human volatolome variations in disease and response to pharmacological treatments (2018-2022; ANR-18-CE45-0017)
 

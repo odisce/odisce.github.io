@@ -2,7 +2,7 @@
 title: "Software"
 ---
 
-**R packages**
+## **R packages**
 
 ![](images/odisce_software.png)
 
@@ -20,7 +20,7 @@ title: "Software"
 
 -   **ropls**: PCA, PLS(-DA) and OPLS(-DA) for multivariate analysis and feature selection of omics data ([DOI:10.18129/B9.bioc.ropls](https://doi.org/10.18129/B9.bioc.ropls))
 
-**Datasets; [MetaboLights](http://www.ebi.ac.uk/metabolights/index) repository**
+## **Datasets; [MetaboLights](http://www.ebi.ac.uk/metabolights/index) repository**
 
 -   [MTBLS1903](https://www.ebi.ac.uk/metabolights/MTBLS1903): ProMetIS: deep phenotyping of knock-out mice by proteomics and metabolomics.
 
@@ -28,7 +28,7 @@ title: "Software"
 
 -   [MTBLS148](https://www.ebi.ac.uk/metabolights/MTBLS148): Impact of collection conditions on the metabolite content of human urine samples as analyzed by liquid chromatography coupled to mass spectrometry and nuclear magnetic resonance spectroscopy.
 
-**Galaxy modules; [Galaxy](https://toolshed.g2.bx.psu.edu) toolshed**
+## **Galaxy modules; [Galaxy](https://toolshed.g2.bx.psu.edu) toolshed**
 
 -   Batch Correction (in collaboration with Jean-Francois Martin, Melanie Petera, Marion Landi and Franck Giacomoni)
 
@@ -44,7 +44,7 @@ title: "Software"
 
 -   Univariate (in collaboration with Marie Tremblay-Franco)
 
-**Workflows and histories; [Workflow4Metabolomics](http://workflow4metabolomics.org/referenced_W4M_histories) e-infrastructure**
+## **Workflows and histories; [Workflow4Metabolomics](http://workflow4metabolomics.org/referenced_W4M_histories) e-infrastructure**
 
 -   W4M00001_Sacurine-statistics ([DOI:10.15454/1.4811121736910142E12](http://dx.doi.org/10.15454/1.4811121736910142E12))
 
