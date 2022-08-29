@@ -8,8 +8,6 @@ Our research has been focusing for more than 15 years on **omics data sciences**
 
 We have implemented our new methods in a **comprehensive digital ecosystem** for **metabolomics data sciences**, with applications to **precision medicine** (including neurosciences, liver diseases and food allergy).
 
-![Software suite for metabolomics data sciences](images/odisce_software.png)
-
 ## Data processing
 
 **Direct injection methods** (such as Flow Injection Analysis or Proton Transfer Reaction) are of particular interest for high-throughput phenotyping. We therefore developed an innovative **preprocessing workflow** which takes as input the individual raw files and generates the samples by variables table of intensities (peak table). The steps include (i) **peak detection and quantification** within each file, (ii) **peak alignment** across samples to generate the peak table, and (iii) **missing value imputation**. In particular, new methods were required to optimize step (i), including noise estimation, modeling of the injection peak, and precise determination of each analyte peak borders. Application to several real data sets resulted in robust and accurate detection and quantification. [**proFIA**](http://bioconductor.org/packages/proFIA) is available as an R/Bioconductor package ([**Delabrière et al, 2017**](http://dx.doi.org/10.1093/bioinformatics/btx458)).
@@ -39,5 +37,7 @@ We developed a new methodology for **feature selection**, of the wrapper type, w
 **Reference datasets** are available in the [**MetaboLights**](https://www.ebi.ac.uk/metabolights/) repository as well as in R packages ([**plasFIA**](https://www.bioconductor.org/packages/plasFIA/), [**ptairData**](https://www.bioconductor.org/packages/ptairData/), [**ropls**](http://bioconductor.org/packages/ropls), [**biosigner**](http://bioconductor.org/packages/biosigner), [**ProMetIS**](https://github.com/IFB-ElixirFr/ProMetIS)).
 
 All algorithms are implemented as a **comprehensive suite of 6 R packages** on the [**Bioconductor**](http://bioconductor.org) repository.
+
+![Software suite for metabolomics data sciences](images/odisce_software.png)
 
 Many of them are also available as **Galaxy modules** on the [**Workflow4Metabolomics**](http://workflow4metabolomics.org) online platform,jointly developed and maintained by the [**French Institute of Bioinformatics**](http://www.france-bioinformatique.fr/en) and [**MetaboHUB**](http://www.metabohub.fr/home.html) ([**Giacomoni et al, 2015**](https://doi.org/10.1093/bioinformatics/btu813); [**Guitton et al, 2017**](https://doi.org/10.1016/j.biocel.2017.07.002)).
