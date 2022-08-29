@@ -1,0 +1,43 @@
+---
+title: "Research"
+---
+
+Our research has been focusing for more than 15 years on **omics data sciences** for **systems biology and precision medicine**, with a particular emphasis on metabolomics data sciences.
+
+**Data sciences** provide powerful approaches and algorithms (signal processing, data mining, machine learning, artificial intelligence) for the **processing and analysis of high-dimensional data**, such as omics datasets. **Metabolomics** (untargeted analysis of small molecules involved in biochemical reactions) is of major interest for phenotype characterization and biomarker discovery. **High-resolution mass spectrometry (HRMS)** is a technology of choice for metabolomics (and also for proteomics), due to its sensitivity and resolution.
+
+We have implemented our new methods in a **comprehensive digital ecosystem** for **metabolomics data sciences**, with applications to **precision medicine** (including neurosciences, liver diseases and food allergy).
+
+![Software suite for metabolomics data sciences](images/odisce_software.png)
+
+## Data processing
+
+**Direct injection methods** (such as Flow Injection Analysis or Proton Transfer Reaction) are of particular interest for high-throughput phenotyping. We therefore developed an innovative **preprocessing workflow** which takes as input the individual raw files and generates the samples by variables table of intensities (peak table). The steps include (i) **peak detection and quantification** within each file, (ii) **peak alignment** across samples to generate the peak table, and (iii) **missing value imputation**. In particular, new methods were required to optimize step (i), including noise estimation, modeling of the injection peak, and precise determination of each analyte peak borders. Application to several real data sets resulted in robust and accurate detection and quantification. [**proFIA**](http://bioconductor.org/packages/proFIA) is available as an R/Bioconductor package ([**Delabrière et al, 2017**](http://dx.doi.org/10.1093/bioinformatics/btx458)).
+
+![[**proFIA**](http://bioconductor.org/packages/proFIA) workflow for the processing of high-throughput and high-resolution FIA-HRMS data ([**Delabrière et al, 2017**](http://dx.doi.org/10.1093/bioinformatics/btx458))](images/proFIA.png)
+
+In **volatolomics** (analysis of volatile organic compounds), PTR-TOF-MS offers unique opportunities for **real-time analysis of exhaled air at the patient's bedside** ([**Grassin Delyle et al., 2021**](http://dx.doi.org/10.1016/j.ebiom.2020.103154)**)**. We therefore developed a **comprehensive suite of algorithms for the pre-processing of acquisitions in large cohorts**, which includes an **innovative two-dimensional peak deconvolution model** based on penalized splines signal regression for accurate estimation of the temporal profile, implemented in the [**ptairMS**](http://bioconductor.org/packages/ptairMS) software ([**Roquencourt et al, 2022**](https://doi.org/10.1093/bioinformatics/btac031)).
+
+![Main steps of the processing of PTR-TOF-MS data with the [**ptairMS**](http://bioconductor.org/packages/ptairMS) software ([**Roquencourt et al, 2022**](https://doi.org/10.1093/bioinformatics/btac031))](images/ptairMS.png)
+
+## Data modeling
+
+We implemented the **Orthogonal Partial Least-Squares (OPLS)** approach for regression and classification from [Trygg and Wold (2002)](http://dx.doi.org/10.1002/cem.695) as an R package named [**ropls**](http://bioconductor.org/packages/ropls) ([**Thévenot et al, 2015**](https://doi.org/10.1021/acs.jproteome.5b00354)). OPLS algorithm is a variation of PLS and allows to model separately the orthogonal variation (i.e. non-correlated to the response) and the predictive variation (i.e. correlated to the response), and thus facilitates model interpretation.
+
+![PCA, PLS(-DA) and OPLS(-DA) modeling with [**ropls**](http://bioconductor.org/packages/ropls) ([**Thévenot et al, 2015**](http://dx.doi.org/10.1021/acs.jproteome.5b00354))](images/ropls.jpg)
+
+We developed a new methodology for **feature selection**, of the wrapper type, which assesses the significance of the features for the model performance ([**biosigner**](http://bioconductor.org/packages/biosigner) R package). The wrapping of three classifiers (PLS-DA, Random Forest and Support Vector Machine) with this methodology resulted in **stable** signatures of **restricted size**, when applied to real metabolomics and transcriptomics datasets ([**Rinaudo et al, 2016**](https://doi.org/10.3389/fmolb.2016.00026)).
+
+![Selection of significant omics features with [**biosigner**](http://bioconductor.org/packages/biosigner) for PLS-DA, Random Forest or SVM prediction ([**Rinaudo et al, 2016**](https://doi.org/10.3389/fmolb.2016.00026))](images/biosigner.jpg)
+
+**Integration of complementary omics data** is an opportunity to build **more robust predictive models** and **facilitate the biologicial interpretation**. To demonstrate the feasibility and interest of **combining proteomics and metabolomics** in routine, we have developed, within a consortium of research infrastructures in **phenogenomics ([PHENOMIN](http://www.phenomin.fr/en-us/))**, **proteomics ([ProFI](http://www.profiproteomics.fr/))**, **metabolomics ([MetaboHUB](https://www.metabohub.fr/home.html))** and **informatics ([IFB](http://www.france-bioinformatique.fr/en))**, a **data post-processing and integration pipeline** that we have applied to the study of murine models. All the data and codes are available in the [**ProMetIS**](https://github.com/IFB-ElixirFr/ProMetIS) package ([**Imbert et al., 2021**](https://doi.org/10.1038/s41597-021-01095-3)).
+
+![[**ProMetIS**](https://github.com/IFB-ElixirFr/ProMetIS), Deep phenotyping of mouse models by combined proteomics and metabolomics analysis ([**Imbert et al., 2021**](https://doi.org/10.1038/s41597-021-01095-3))](images/ProMetIS.png)
+
+## Computing with data
+
+**Reference datasets** are available in the [**MetaboLights**](https://www.ebi.ac.uk/metabolights/) repository as well as in R packages ([**plasFIA**](https://www.bioconductor.org/packages/plasFIA/), [**ptairData**](https://www.bioconductor.org/packages/ptairData/), [**ropls**](http://bioconductor.org/packages/ropls), [**biosigner**](http://bioconductor.org/packages/biosigner), [**ProMetIS**](https://github.com/IFB-ElixirFr/ProMetIS)).
+
+All algorithms are implemented as a **comprehensive suite of 6 R packages** on the [**Bioconductor**](http://bioconductor.org) repository.
+
+Many of them are also available as **Galaxy modules** on the [**Workflow4Metabolomics**](http://workflow4metabolomics.org) online platform,jointly developed and maintained by the [**French Institute of Bioinformatics**](http://www.france-bioinformatique.fr/en) and [**MetaboHUB**](http://www.metabohub.fr/home.html) ([**Giacomoni et al, 2015**](https://doi.org/10.1093/bioinformatics/btu813); [**Guitton et al, 2017**](https://doi.org/10.1016/j.biocel.2017.07.002)).

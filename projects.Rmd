@@ -4,6 +4,8 @@ title: "Main projects"
 
 ## Current
 
+PROPSY: PROgram-project in Precision pSYchiatry (2022-; ANR-PEPR)
+
 [PeriContALL](https://www.frm.org/recherches-environnement-et-sante/pollution-environnementale/quels-liens-entre-alimentation-perinatale-et-allergies-pendant-enfance): Integrated analysis of the association between perinatal exposure to food contaminants and allergies in childhood (2022-; FRM)
 
 [DECISION](https://decision-for-liver.eu/): DEcompensated CIrrhoSIs: identification of new cOmbiNatorial therapies based on systems approaches (2020-; H2020-RIA-847949)
