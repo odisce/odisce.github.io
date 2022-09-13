@@ -2,7 +2,7 @@
 title: "Selected publications"
 ---
 
-* Roquencourt C., Grassin-Delyle S. and Thevenot, E. A. (2022). ptairMS: real-time processing and analysis of PTR-TOF-MS data for biomarker discovery in exhaled breath. _Bioinformatics_ (https://doi.org/10.1093/bioinformatics/btac031)
+* Roquencourt C., Grassin-Delyle S. and Thevenot, E. A. (2022). ptairMS: real-time processing and analysis of PTR-TOF-MS data for biomarker discovery in exhaled breath. _Bioinformatics_, **38**:1930-1937 (https://doi.org/10.1093/bioinformatics/btac031)
     
 * Imbert A., Rompais M., Selloum M., Castelli F., Mouton-Barbosa E., Brandolini-Bunlon M., Chu-Van E., Joly C., Hirschler A., Roger P., Burger T., Leblanc S., Sorg T., Ouzia S., Vandenbrouck Y., Medigue C., Junot C., Ferro M., Pujos-Guillot E., de Peredo A. G., Fenaille F., Carapito C., Herault Y. and Thevenot, E. A. (2021). ProMetIS, deep phenotyping of mouse models by combined proteomics and metabolomics analysis. _Scientific Data_, **8** (https://doi.org/10.1038/s41597-021-01095-3)
     
@@ -14,8 +14,7 @@ title: "Selected publications"
     
 * Peters K., Bradbury J., Bergmann S., Capuccini M., Cascante M., de Atauri P., Ebbels T.M.D., Foguet C., Glen R., Gonzalez-Beltran A., Gunther U.L., Handakas E., Hankemeier T., Haug K., Herman S., Holub P., Izzo M., Jacob D., Johnson D., Jourdan F., Kale N., Karaman I., Khalili B., Emami Khonsari P., Kultima K., Lampa S., Larsson A., Ludwig C., Moreno P., Neumann S., Novella J.A., O'Donovan C., Pearce J.T.M., Peluso A., Piras M.E., Pireddu L., Reed M.A.C., Rocca-Serra P., Roger P., Rosato A., Rueedi R., Ruttkies C., Sadawi N., Salek R.M., Sansone S.A., Selivanov V., Spjuth O., Schober D., Thevenot E.A., Tomasoni M., van Rijswijk M., van Vliet M., Viant M.R., Weber R.J.M., Zanetti G. and Steinbeck C. (2019). PhenoMeNal: processing and analysis of metabolomics data in the cloud. _Gigascience_, **8** (https://doi.org/10.1093/gigascience/giy149)
 
-* van Rijswijk M., Beirnaert C., Caron C., Cascante M., Dominguez V., Dunn W., Ebbels T., Giacomoni F., Gonzalez-Beltran A., Hankemeier T., Haug K., Izquierdo-Garcia J., Jimenez R., Jourdan F., Kale N., Klapa M., Kohlbacher O., Koort K., Kultima K., Le Corguille G., Moschonas N., Neumann S., O'Donovan C., Reczko M., Rocca-Serra P., Rosato A., Salek R., Sansone S., Satagopam V., Schober D., Shimmo R., Spicer R., Spjuth O., Thevenot E., Viant M., Weber R., Willighagen E., Zanetti G. and Steinbeck C. (2017). The future of metabolomics in ELIXIR. _F1000Research_, doi:[10.12688/f1000research.12342.1](https://doi.org/10.12688/f1000research.12342.1)
-    
+* van Rijswijk M., Beirnaert C., Caron C., Cascante M., Dominguez V., Dunn W., Ebbels T., Giacomoni F., Gonzalez-Beltran A., Hankemeier T., Haug K., Izquierdo-Garcia J., Jimenez R., Jourdan F., Kale N., Klapa M., Kohlbacher O., Koort K., Kultima K., Le Corguille G., Moschonas N., Neumann S., O'Donovan C., Reczko M., Rocca-Serra P., Rosato A., Salek R., Sansone S., Satagopam V., Schober D., Shimmo R., Spicer R., Spjuth O., Thevenot E., Viant M., Weber R., Willighagen E., Zanetti G. and Steinbeck C. (2017). The future of metabolomics in ELIXIR. _F1000Research_, (https://doi.org/10.12688/f1000research.12342.1)
     
 * Delabriere A., Hohenester U.M., Colsch B., Junot C., Fenaille F. and Thevenot E.A. (2017). _proFIA_: a data preprocessing workflow for flow injection analysis coupled to high-resolution mass spectrometry. _Bioinformatics_, **33**:3767-3775 (https://doi.org/10.1093/bioinformatics/btx458)
     
@@ -27,4 +26,4 @@ title: "Selected publications"
 
 * Giacomoni F., Le Corguille G., Monsoor M., Landi M., Pericard P., Petera M., Duperier C., Tremblay-Franco M., Martin J.-F., Jacob D., Goulitquer S., Thevenot E.A. and Caron C. (2015). Workflow4Metabolomics: A collaborative research infrastructure for computational metabolomics. _Bioinformatics_, **31**:1493-1495 (https://doi.org/10.1093/bioinformatics/btu813)
 
-* Lenuzza N., Duval X., Nicolas G., Thevenot E., Job S., Videau O., Narjoz C., Loriot M.-A., Beaune P., Becquemont L., Mentre F., Funck-Brentano C., Alavoine L., Arnaud P., Delaforge M. and Benech H. (2014). Safety and pharmacokinetics of the CIME combination of drugs and their metabolites after a single oral dosing in healthy volunteers. _European Journal of Drug Metabolism and Pharmacokinetics_, 1-14 (https://doi.org/10.1007/s13318-014-0239-0)
+* Lenuzza N., Duval X., Nicolas G., Thevenot E., Job S., Videau O., Narjoz C., Loriot M.-A., Beaune P., Becquemont L., Mentre F., Funck-Brentano C., Alavoine L., Arnaud P., Delaforge M. and Benech H. (2016). Safety and pharmacokinetics of the CIME combination of drugs and their metabolites after a single oral dosing in healthy volunteers. _European Journal of Drug Metabolism and Pharmacokinetics_, **41**:125-138 (https://doi.org/10.1007/s13318-014-0239-0)
