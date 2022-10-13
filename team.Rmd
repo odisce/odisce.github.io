@@ -6,6 +6,8 @@ title: "Team"
 
 -   Dylan Saunier
 
+-   Ahmed Mohamedi
+
 -   Sylvain Dechaumet
 
 -   Eric Venot
