@@ -10,7 +10,7 @@ title: "Software"
 
 -   **biosigner**: signature discovery from omics data ([DOI:10.18129/B9.bioc.biosigner](https://doi.org/10.18129/B9.bioc.biosigner))
 
--   **phenomis**: post-processing and univariate analysis of MS data (<https://github.com/SciDoPhenIA/phenomis>)
+-   **phenomis**: post-processing and univariate analysis of MS data ([DOI:10.18129/B9.bioc.phenomis](https://doi.org/10.18129/B9.bioc.phenomis))
 
 -   **proFIA**: preprocessing of FIA-HRMS data ([DOI:10.18129/B9.bioc.proFIA](https://doi.org/10.18129/B9.bioc.proFIA))
 
