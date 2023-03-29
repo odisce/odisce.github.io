@@ -2,11 +2,15 @@
 title: "Team"
 ---
 
+-   Romuald Ait Bachir
+
+-   Oneeb Nasir
+
+-   Diana Karaki
+
 -   Ghita Tajeddine
 
 -   Dylan Saunier
-
--   Ahmed Mohamedi
 
 -   Sylvain Dechaumet
 
@@ -15,6 +19,8 @@ title: "Team"
 -   Etienne Thévenot
 
 ## **Alumni**
+
+-   Ahmed Mohamedi
 
 -   Marina Berger
 

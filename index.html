@@ -13,7 +13,7 @@
 
 <title>Odiscé</title>
 
-<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -178,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -187,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -290,20 +283,22 @@ $(document).ready(function () {
 </div>
 
 
-<div id="welcome-to-the-data-science-team-website"
+<div
+id="welcome-to-the-metabolomics-data-sciences-for-health-team-website"
 class="section level2">
-<h2>Welcome to the Data Science Team website</h2>
+<h2>Welcome to the “Metabolomics Data Sciences for Health” team
+website</h2>
 <p>For more than 15 years, our team based at <strong>CEA Saclay</strong>
 has been developing innovative methods and software in
 <strong>metabolomic data science for health</strong>. Our know-how and
 the digital ecosystem we have built cover all steps from <strong>signal
 processing</strong> of <strong>mass spectrometry data</strong>,
-<strong>machine learning</strong>, <strong>variable selection</strong>,
+<strong>machine learning</strong>, <strong>feature selection</strong>,
 <strong>data integration</strong>, <strong>annotation</strong> and up to
 reproducible <strong>workflow management</strong>.</p>
 <p><img src="images/odisce.png" width="673" /></p>
-<div id="last-update-2022-10-12" class="section level6">
-<h6>Last update: 2022-10-12</h6>
+<div id="last-update-2023-03-29" class="section level6">
+<h6>Last update: 2023-03-29</h6>
 </div>
 </div>
 

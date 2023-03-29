@@ -13,7 +13,7 @@
 
 <title>Software</title>
 
-<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -178,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -187,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -301,8 +294,8 @@ href="https://doi.org/doi:10.18129/B9.bioc.biodb">DOI:10.18129/B9.bioc.biodb</a>
 (<a
 href="https://doi.org/10.18129/B9.bioc.biosigner">DOI:10.18129/B9.bioc.biosigner</a>)</p></li>
 <li><p><strong>phenomis</strong>: post-processing and univariate
-analysis of MS data (<a href="https://github.com/SciDoPhenIA/phenomis"
-class="uri">https://github.com/SciDoPhenIA/phenomis</a>)</p></li>
+analysis of MS data (<a
+href="https://doi.org/10.18129/B9.bioc.phenomis">DOI:10.18129/B9.bioc.phenomis</a>)</p></li>
 <li><p><strong>proFIA</strong>: preprocessing of FIA-HRMS data (<a
 href="https://doi.org/10.18129/B9.bioc.proFIA">DOI:10.18129/B9.bioc.proFIA</a>)</p></li>
 <li><p><strong>ProMetIS</strong>: multi-omics phenotyping of the LAT and

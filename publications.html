@@ -13,7 +13,7 @@
 
 <title>Selected publications</title>
 
-<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -178,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -187,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -291,7 +284,27 @@ $(document).ready(function () {
 
 
 <ul>
-<li><p>Roquencourt C., Grassin-Delyle S. and Thevenot, E. A. (2022).
+<li><p>Ghazaly C., Biletska K, Thévenot E.A., Devillier P., Naline E.,
+Grassin-Delyle S. and Scorsone E. (2023). Assessment of an e-nose
+performance for the detection of COVID-19 specific biomarkers.
+<em>Journal of Breath Research</em>, <strong>17</strong>:2 (<a
+href="https://doi.org/10.1088/1752-7163/acb9b2"
+class="uri">https://doi.org/10.1088/1752-7163/acb9b2</a>)</p></li>
+<li><p>Paulhe N., Canlet C., Damont A., Peyriga L., Durand S., Deborde
+C., Alves S., Bernillon S., Berton T., Bir R., Bouville A., Cahoreau E.,
+Centeno D., Costantino, R., Debrauwer L., Delabrière A., Duperier C.,
+Emery S., Flandin A., Hohenester U., Jacob D., Joly C., Jousse C.,
+Lagree M., Lamari N., Lefebvre M., Lopez-Piffet C., Lyan B., Maucourt
+M., Migne C., Olivier M.F., Rathahao-Paris E., Petriacq P., Pinelli J.,
+Roch L., Roger P., Roques S., Tabet J.C., Tremblay-Franco M., Traikia
+M., Warnet A., Zhendre V., Rolin D., Jourdan F., Thévenot E., Moing A.,
+Jamin E., Fenaille F., Junot C., Pujos-Guillot E., and Giacomoni F.
+(2022). PeakForest: a multi-platform digital infrastructure for
+interoperable metabolite spectral data and metadata management.
+<em>Metabolomics</em>, <strong>18</strong> (<a
+href="https://doi.org/10.1007/s11306-022-01899-3"
+class="uri">https://doi.org/10.1007/s11306-022-01899-3</a>)</p></li>
+<li><p>Roquencourt C., Grassin-Delyle S. and Thévenot, E. A. (2022).
 ptairMS: real-time processing and analysis of PTR-TOF-MS data for
 biomarker discovery in exhaled breath. <em>Bioinformatics</em>,
 <strong>38</strong>:1930-1937 (<a
@@ -301,11 +314,19 @@ class="uri">https://doi.org/10.1093/bioinformatics/btac031</a>)</p></li>
 E., Brandolini-Bunlon M., Chu-Van E., Joly C., Hirschler A., Roger P.,
 Burger T., Leblanc S., Sorg T., Ouzia S., Vandenbrouck Y., Medigue C.,
 Junot C., Ferro M., Pujos-Guillot E., de Peredo A. G., Fenaille F.,
-Carapito C., Herault Y. and Thevenot, E. A. (2021). ProMetIS, deep
+Carapito C., Herault Y. and Thévenot, E. A. (2021). ProMetIS, deep
 phenotyping of mouse models by combined proteomics and metabolomics
 analysis. <em>Scientific Data</em>, <strong>8</strong> (<a
 href="https://doi.org/10.1038/s41597-021-01095-3"
 class="uri">https://doi.org/10.1038/s41597-021-01095-3</a>)</p></li>
+<li><p>Comte B., Monnerie S., Brandolini-Bunlon M., Canlet C., Castelli
+F., Chu-Van E., Colsch B., Fenaille F., Joly C., Jourdan F., Lenuzza N.,
+Lyan B., Martin J., Migné C., Morais J.A., Pétéra M., Poupin N., Vinson
+F., Thévenot E., Junot C., Gaudreau P. and Pujos-Guillot E (2021).
+Multiplatform metabolomics for an integrative exploration of metabolic
+syndrome in older men. <em>eBioMedicine</em>, <strong>69</strong> (<a
+href="https://doi.org/10.1016/j.ebiom.2021.103440"
+class="uri">https://doi.org/10.1016/j.ebiom.2021.103440</a>)</p></li>
 <li><p>Grassin-Delyle S., Roquencourt C., Moine P., Saffroy G., Carn S.,
 Heming N., Fleuriet J., Salvator H., Naline E., Couderc L.-J., Devillier
 P., Thevenot E. A. and Annane D. (2021). Metabolomics of exhaled breath
@@ -315,7 +336,7 @@ href="https://doi.org/10.1016/j.ebiom.2020.103154"
 class="uri">https://doi.org/10.1016/j.ebiom.2020.103154</a>)</p></li>
 <li><p>Stanstrup J., Broeckling C.D., Helmus R., Hoffmann N., Mathe E.,
 Naake T., Nicolotti L., Peters K., Rainer J., Salek R., Schulze T.,
-Schymanski E.L., Stravs M.A., Thevenot E.A., Treutler H., Weber R.,
+Schymanski E.L., Stravs M.A., Thévenot E.A., Treutler H., Weber R.,
 Willighagen E., Witting M., Neumann S. The metaRbolomics toolbox in
 Bioconductor and beyond. <em>Metabolites</em>, <strong>9</strong> (<a
 href="https://doi.org/10.3390/metabo9100200"
@@ -325,7 +346,7 @@ M., Carone M., Cascante M., de Atauri P., Foguet C., Gonzalez-Beltran
 A., Hankemeier T., Haug K., He S., Herman S., Johnson D., Kale N.,
 Larsson A., Neumann S., Peters K., Pireddu L., Rocca-Serra P., Roger P.,
 Rueedi R., Ruttkies C., Sadawi N., Salek R.M., Sansone S.A., Schober D.,
-Selivanov V., Thevenot E.A., van Vliet M., Zanetti G., Steinbeck C.,
+Selivanov V., Thévenot E.A., van Vliet M., Zanetti G., Steinbeck C.,
 Kultima K. and Spjuth O. (2019). Interoperable and scalable data
 analysis with microservices: applications in metabolomics.
 <em>Bioinformatics</em>, <strong>35</strong>:3752-3760 (<a
@@ -339,7 +360,7 @@ B., Emami Khonsari P., Kultima K., Lampa S., Larsson A., Ludwig C.,
 Moreno P., Neumann S., Novella J.A., O’Donovan C., Pearce J.T.M., Peluso
 A., Piras M.E., Pireddu L., Reed M.A.C., Rocca-Serra P., Roger P.,
 Rosato A., Rueedi R., Ruttkies C., Sadawi N., Salek R.M., Sansone S.A.,
-Selivanov V., Spjuth O., Schober D., Thevenot E.A., Tomasoni M., van
+Selivanov V., Spjuth O., Schober D., Thévenot E.A., Tomasoni M., van
 Rijswijk M., van Vliet M., Viant M.R., Weber R.J.M., Zanetti G. and
 Steinbeck C. (2019). PhenoMeNal: processing and analysis of metabolomics
 data in the cloud. <em>Gigascience</em>, <strong>8</strong> (<a
@@ -351,13 +372,13 @@ T., Haug K., Izquierdo-Garcia J., Jimenez R., Jourdan F., Kale N., Klapa
 M., Kohlbacher O., Koort K., Kultima K., Le Corguille G., Moschonas N.,
 Neumann S., O’Donovan C., Reczko M., Rocca-Serra P., Rosato A., Salek
 R., Sansone S., Satagopam V., Schober D., Shimmo R., Spicer R., Spjuth
-O., Thevenot E., Viant M., Weber R., Willighagen E., Zanetti G. and
+O., Thévenot E., Viant M., Weber R., Willighagen E., Zanetti G. and
 Steinbeck C. (2017). The future of metabolomics in ELIXIR.
 <em>F1000Research</em>, (<a
 href="https://doi.org/10.12688/f1000research.12342.1"
 class="uri">https://doi.org/10.12688/f1000research.12342.1</a>)</p></li>
 <li><p>Delabriere A., Hohenester U.M., Colsch B., Junot C., Fenaille F.
-and Thevenot E.A. (2017). <em>proFIA</em>: a data preprocessing workflow
+and Thévenot E.A. (2017). <em>proFIA</em>: a data preprocessing workflow
 for flow injection analysis coupled to high-resolution mass
 spectrometry. <em>Bioinformatics</em>, <strong>33</strong>:3767-3775 (<a
 href="https://doi.org/10.1093/bioinformatics/btx458"
@@ -365,20 +386,20 @@ class="uri">https://doi.org/10.1093/bioinformatics/btx458</a>)</p></li>
 <li><p>Guitton Y., Tremblay-Franco M., Le Corguille G., Martin J.-F.,
 Petera M., Roger-Mele P., Delabriere A., Goulitquer S., Monsoor M.,
 Duperier C., Canlet C., Servien R., Tardivel P., Caron C., Giacomoni F.
-and Thevenot, E.A. (2017). Create, run, share, publish, and reference
+and Thévenot, E.A. (2017). Create, run, share, publish, and reference
 your LC-MS, FIA-MS, GC-MS, and NMR data analysis workflows with the
 Workflow4Metabolomics 3.0 Galaxy online infrastructure for metabolomics.
 <em>International Journal of Biochemistry and Cell Biology</em>,
 <strong>93</strong>:89-101 (<a
 href="https://doi.org/10.1016/j.biocel.2017.07.002"
 class="uri">https://doi.org/10.1016/j.biocel.2017.07.002</a>)</p></li>
-<li><p>Rinaudo P., Boudah S., Junot C. and Thevenot E.A. (2016).
+<li><p>Rinaudo P., Boudah S., Junot C. and Thévenot E.A. (2016).
 <em>biosigner</em>: a new method for the discovery of significant
 molecular signatures from omics data. <em>Frontiers in Molecular
 Biosciences</em>, <strong>3</strong> (<a
 href="https://doi.org/10.3389/fmolb.2016.00026"
 class="uri">https://doi.org/10.3389/fmolb.2016.00026</a>)</p></li>
-<li><p>Thevenot E.A., Roux A., Xu Y., Ezan E. and Junot C. (2015).
+<li><p>Thévenot E.A., Roux A., Xu Y., Ezan E. and Junot C. (2015).
 Analysis of the human adult urinary metabolome variations with age, body
 mass index and gender by implementing a comprehensive workflow for
 univariate and OPLS statistical analyses. <em>Journal of Proteome
@@ -387,12 +408,12 @@ href="https://doi.org/10.1021/acs.jproteome.5b00354"
 class="uri">https://doi.org/10.1021/acs.jproteome.5b00354</a>)</p></li>
 <li><p>Giacomoni F., Le Corguille G., Monsoor M., Landi M., Pericard P.,
 Petera M., Duperier C., Tremblay-Franco M., Martin J.-F., Jacob D.,
-Goulitquer S., Thevenot E.A. and Caron C. (2015). Workflow4Metabolomics:
+Goulitquer S., Thévenot E.A. and Caron C. (2015). Workflow4Metabolomics:
 A collaborative research infrastructure for computational metabolomics.
 <em>Bioinformatics</em>, <strong>31</strong>:1493-1495 (<a
 href="https://doi.org/10.1093/bioinformatics/btu813"
 class="uri">https://doi.org/10.1093/bioinformatics/btu813</a>)</p></li>
-<li><p>Lenuzza N., Duval X., Nicolas G., Thevenot E., Job S., Videau O.,
+<li><p>Lenuzza N., Duval X., Nicolas G., Thévenot E., Job S., Videau O.,
 Narjoz C., Loriot M.-A., Beaune P., Becquemont L., Mentre F.,
 Funck-Brentano C., Alavoine L., Arnaud P., Delaforge M. and Benech H.
 (2016). Safety and pharmacokinetics of the CIME combination of drugs and

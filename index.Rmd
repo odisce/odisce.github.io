@@ -2,10 +2,10 @@
 title: "Odiscé"
 ---
 
-## Welcome to the Data Science Team website
+## Welcome to the "Metabolomics Data Sciences for Health" team website
 
-For more than 15 years, our team based at **CEA Saclay** has been developing innovative methods and software in **metabolomic data science for health**. Our know-how and the digital ecosystem we have built cover all steps from **signal processing** of **mass spectrometry data**, **machine learning**, **variable selection**, **data integration**, **annotation** and up to reproducible **workflow management**.
+For more than 15 years, our team based at **CEA Saclay** has been developing innovative methods and software in **metabolomic data science for health**. Our know-how and the digital ecosystem we have built cover all steps from **signal processing** of **mass spectrometry data**, **machine learning**, **feature selection**, **data integration**, **annotation** and up to reproducible **workflow management**.
 
 ![](images/odisce.png){width="673"}
 
-###### Last update: 2022-11-13
+###### Last update: 2023-03-29
