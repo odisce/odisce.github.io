@@ -2,13 +2,13 @@
 title: "Team"
 ---
 
+-   Alma Toscano
+
 -   Romuald Ait Bachir
 
 -   Oneeb Nasir
 
 -   Diana Karaki
-
--   Ghita Tajeddine
 
 -   Dylan Saunier
 
@@ -19,6 +19,8 @@ title: "Team"
 -   Etienne Thévenot
 
 ## **Alumni**
+
+-   Ghita Tajeddine
 
 -   Ahmed Mohamedi
 

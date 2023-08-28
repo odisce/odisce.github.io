@@ -2,11 +2,16 @@
 title: "Contact"
 ---
 
-**Etienne A. Thévenot, PhD**
+**Etienne A. Thévenot, PhD, HDR**
 
 -   [Metabolomics Data Sciences for Health (Odiscé)](https://odisce.github.io/)
+-   Laboratoire Innovations en spectrométrie de Masse pour la Santé (LI-MS)
+& Laboratoire d’Immuno-Allergie Alimentaire (LIAA)
 -   [Medicines and Healthcare Technologies Department](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/medicines_healthcare_technologies.aspx)
 -   [CEA](http://www.cea.fr/english), [INRAE](https://www.inrae.fr/en), [Université Paris Saclay](https://www.universite-paris-saclay.fr/en), [MetaboHUB](http://www.metabohub.fr/home.html)
 -   [CEA, Centre de Saclay, F-91191 Gif-sur-Yvette Cedex, France](http://www.cea.fr/Documents/plans-des-centres/cea_saclay_map.pdf)
+CEA, INRAE, Université Paris-Saclay, MetaboHUB
+DRF/JOLIOT/DMTS/SPI, Bâtiment 136
+CEA, Centre de Saclay, F-91191 Gif sur Yvette, France
 
-**E-mail: etienne.thevenot \*at\* cea.fr**
+**E-mail: etienne [dot] thevenot [at] cea [dot] fr**
