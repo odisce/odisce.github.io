@@ -2,6 +2,8 @@
 title: "News"
 ---
 
+-   Feb. 2024: **Spec2Annot package** to annotate and query mass spectra on our GitHub (<https://github.com/odisce>)
+
 -   July 2023: **Habilitation à Diriger les Recherches**
 
 -   Sept. 2022: **phenomis package** now available on Bioconductor (<https://bioconductor.org/packages/phenomis/>)

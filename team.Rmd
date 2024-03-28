@@ -2,9 +2,11 @@
 title: "Team"
 ---
 
--   Alma Toscano
+-   Ninon Robin
 
--   Romuald Ait Bachir
+-   Coline Gianfrotta
+
+-   Maria Teresa Avella
 
 -   Oneeb Nasir
 
@@ -18,14 +20,17 @@ title: "Team"
 
 -   Etienne Thévenot
 
-
-<center>
-![](images/team.png){width="500"}
-</center>
-
+<center>![](images/team.png){width="500"}</center>
 
 ## **Alumni**
 
+-   Alma Toscano
+
+-   Romuald Ait Bachir
+
+```{=html}
+<!-- -->
+```
 -   Ghita Tajeddine
 
 -   Ahmed Mohamedi
