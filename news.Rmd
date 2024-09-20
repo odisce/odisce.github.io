@@ -2,6 +2,8 @@
 title: "News"
 ---
 
+-   Aug. 2024: **DIA-NMF publication** at the EUSIPCO Conference (<https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0002387.pdf>)
+
 -   Feb. 2024: **Spec2Annot package** to annotate and query mass spectra on our GitHub (<https://github.com/odisce>)
 
 -   July 2023: **Habilitation à Diriger les Recherches**

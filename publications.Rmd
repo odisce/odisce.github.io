@@ -2,6 +2,8 @@
 title: "Selected publications"
 ---
 
+-   Karaki D., Dechaumet S., Damont A., Colsch B., Fenaille F., Souloumiac A. and Thévenot E.A. (2024) Non-Negative Matrix Factorization of SWATH DIA Data Improves Global Metabolite Identification. In, *European Signal Processing Conference (EUSIPCO)*. Lyon (<https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0002387.pdf>)
+
 -   Hajjar G., Barros Santos M.C., Bertrand-Michel J., Canlet C., Castelli F., Creusot N., Dechaumet S., Diémé B., Giacomoni F., Giraudeau P., Guitton Y., Thévenot E., Tremblay-Franco M., Junot C., Jourdan F., Fenaille F., Comte B., Pétriacq P. and Pujos-Guillot E. (2023) Scaling-up metabolomics: Current state and perspectives. *TrAC Trends in Analytical Chemistry*, **167**:117225 (<https://doi.org/10.1016/j.trac.2023.117225>)
 
 <!-- -   Ghazaly C., Biletska K, Thévenot E.A., Devillier P., Naline E., Grassin-Delyle S. and Scorsone E. (2023). Assessment of an e-nose performance for the detection of COVID-19 specific biomarkers. *Journal of Breath Research*, **17**:2 (<https://doi.org/10.1088/1752-7163/acb9b2>) -->
