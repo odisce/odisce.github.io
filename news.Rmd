@@ -10,4 +10,4 @@ title: "News"
 
 -   Sept. 2022: **phenomis package** now available on Bioconductor (<https://bioconductor.org/packages/phenomis/>)
 
--   Jan. 2022: **ptairMS publication** in Bioinformatics (<https://doi.org/10.1093/bioinformatics/btac031>)
+<!-- -   Jan. 2022: **ptairMS publication** in Bioinformatics (<https://doi.org/10.1093/bioinformatics/btac031>) -->
