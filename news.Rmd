@@ -6,6 +6,8 @@ title: "News"
 
 -   Feb. 2024: **Spec2Annot package** to annotate and query mass spectra on our GitHub (<https://github.com/odisce>)
 
+-   Sept. 2023: [**Video**](https://www.youtube.com/watch?v=5lEj7vzT1OU) **about the SoftwAiR project** (starting at 34:00, in French; L'Esprit Sorcier TV / CEA with support from ANR)
+
 -   July 2023: **Habilitation à Diriger les Recherches**
 
 -   Sept. 2022: **phenomis package** now available on Bioconductor (<https://bioconductor.org/packages/phenomis/>)

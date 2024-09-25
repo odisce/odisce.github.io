@@ -2,7 +2,7 @@
 title: "Software"
 ---
 
-#### **See our GitHub site: [github.com/odisce](https://github.com/odisce)**
+#### **Visit our GitHub site: [github.com/odisce](https://github.com/odisce)**
 
 ## **R packages**
 
