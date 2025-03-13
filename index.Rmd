@@ -4,8 +4,8 @@ title: "Odiscé"
 
 ## Welcome to the "Metabolomics Data Sciences for Health" team website
 
-For more than 15 years, our team based at **CEA Saclay** has been developing innovative methods and software in **metabolomic data science for health**. Our know-how and the digital ecosystem we have built cover all steps from **signal processing** of **mass spectrometry data**, **machine learning**, **feature selection**, **data integration**, **annotation** and up to reproducible **workflow management**.
+For more than 15 years, our team based at [**CEA Saclay**](https://www.cea.fr/paris-saclay/Pages/Accueil.aspx) in the [**LI-MS**](https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/medicines_healthcare_technologies/spi/lims.aspx) laboratory (Laboratory of innovations in mass spectrometry for health), member of the [**MetaboHUB**](https://www.metabohub.fr/home.html) infrastructure in metabolomics and fluxomics, has been developing innovative computational methods and software libraries applied to **metabolomic data science for health**. Our know-how and the digital ecosystem we have built cover all steps from **signal processing** of **mass spectrometry data**, **machine learning**, **feature selection**, **data integration**, **cheminformatics** and up to reproducible **workflow management**.
 
 <center>![](images/odisce.png){width="673"}</center>
 
-###### Last update: 2024-09-25
+###### Last update: 2025-03-13

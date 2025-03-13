@@ -2,9 +2,9 @@
 title: "Team"
 ---
 
--   Pinart Paul-Henri
+-   Anaghim Temtem
 
--   Ninon Robin
+-   Pinart Paul-Henri
 
 -   Coline Gianfrotta
 
@@ -19,6 +19,8 @@ title: "Team"
 <center>![](images/team.png){width="500"}</center>
 
 ## **Alumni**
+
+-   Ninon Robin
 
 -   Oneeb Nasir
 
