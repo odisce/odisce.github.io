@@ -4,6 +4,8 @@ title: "Selected publications"
 
 -   Delabrière A., Gianfrotta G., Dechaumet S., Damont A., Hautbergue T., Roger P., Jamin E.L., Puel O., Junot C., Fenaille F. and Thévenot E.A. (2025) mineMS2: Annotation of spectral libraries with exact fragmentation patterns. *ChemRxiv*, Preprint (<https://doi.org/10.26434/chemrxiv-2025-3c9z1>)
 
+-   Delporte C., Tremblay-Franco M., Guitton Y., Canlet C., Weber R.J.M., Hecht H., Price E.J., Klánová J., Joly C., Dalle C., Saint-Vanne J., Thévenot E., Schmitz I., Chéreau S., Dechaumet S., Diémé B., Giacomoni F., Le Corguillé G., Pétéra M. and Souard F. (2025). Workflow4Metabolomics (W4M): A user-friendly metabolomics platform for analysis of mass spectrometry and nuclear magnetic resonance data. *Current Protocols*, **5**:e70095 (<https://doi.org/10.1002/cpz1.70095>)
+
 <!-- -   Lefebvre T., Eguether T., Thévenot E., Poli A., Chu-Van E., Krasniqi P., Schmitt C., Talbi N., Nicolas G., Puy H., Junot C., Lamazière A., Castelli F., Gouya L. and Fenaille F. (2025) Nontargeted urine metabolomic analysis of acute intermittent porphyria reveals novel interactions between bile acids and heme metabolism: New promising biomarkers for the long-term management of patients. *Journal of Inherited Metabolic Disease*, **48**:1 (<https://doi.org/10.1002/jimd.12809>) -->
 
 -   Karaki D., Dechaumet S., Damont A., Colsch B., Fenaille F., Souloumiac A. and Thévenot E.A. (2024) Non-Negative Matrix Factorization of SWATH DIA Data Improves Global Metabolite Identification. In, *European Signal Processing Conference (EUSIPCO)*. Lyon (<https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0002387.pdf>)
