@@ -2,15 +2,13 @@
 title: "Team"
 ---
 
+-   Camille Lançon
+
 -   Anaghim Temtem
 
 -   Pinart Paul-Henri
 
--   Coline Gianfrotta
-
 -   Diana Karaki
-
--   Dylan Saunier
 
 -   Sylvain Dechaumet
 
@@ -19,6 +17,10 @@ title: "Team"
 <center>![](images/team.png){width="500"}</center>
 
 ## **Alumni**
+
+-   Coline Gianfrotta
+
+-   Dylan Saunier
 
 -   Ninon Robin
 
