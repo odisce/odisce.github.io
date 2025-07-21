@@ -2,6 +2,8 @@
 title: "News"
 ---
 
+-   July 2025: Release of the **DIANMF package** for the **processing of SWATH-DIA metabolomics data** (<https://github.com/odisce/DIANMF/>)
+
 -   June 2025: **Workshop** on the **automated building of MS/MS spectral databases** at the **RFMF Conference** (<https://17-js-rfmf-2025.sciencesconf.org/>)
 
 -   March 2025: **mineMS2 preprint** on ***ChemRxiv*** (<https://doi.org/10.26434/chemrxiv-2025-3c9z1>)
@@ -16,4 +18,4 @@ title: "News"
 
 -   Sept. 2022: **phenomis package** now available on **Bioconductor** (<https://bioconductor.org/packages/phenomis/>)
 
-<!-- -   Jan. 2022: **ptairMS publication** in Bioinformatics (<https://doi.org/10.1093/bioinformatics/btac031>) -->
+-   Jan. 2022: **ptairMS publication** in Bioinformatics (<https://doi.org/10.1093/bioinformatics/btac031>)

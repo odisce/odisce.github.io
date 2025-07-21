@@ -24,7 +24,7 @@ title: "Selected publications"
 
 -   Grassin-Delyle S., Roquencourt C., Moine P., Saffroy G., Carn S., Heming N., Fleuriet J., Salvator H., Naline E., Couderc L.-J., Devillier P., Thevenot E. A. and Annane D. (2021). Metabolomics of exhaled breath in critically ill COVID-19 patients: A pilot study. *EBioMedicine*, **63** (<https://doi.org/10.1016/j.ebiom.2020.103154>)
 
--   Stanstrup J., Broeckling C.D., Helmus R., Hoffmann N., Mathe E., Naake T., Nicolotti L., Peters K., Rainer J., Salek R., Schulze T., Schymanski E.L., Stravs M.A., Thévenot E.A., Treutler H., Weber R., Willighagen E., Witting M., Neumann S. The metaRbolomics toolbox in Bioconductor and beyond. *Metabolites*, **9** (<https://doi.org/10.3390/metabo9100200>)
+-   Stanstrup J., Broeckling C.D., Helmus R., Hoffmann N., Mathe E., Naake T., Nicolotti L., Peters K., Rainer J., Salek R., Schulze T., Schymanski E.L., Stravs M.A., Thévenot E.A., Treutler H., Weber R., Willighagen E., Witting M., Neumann S. (2019). The metaRbolomics toolbox in Bioconductor and beyond. *Metabolites*, **9** (<https://doi.org/10.3390/metabo9100200>)
 
 -   Emami Khoonsari P., Moreno P., Bergmann S., Burman J., Capuccini M., Carone M., Cascante M., de Atauri P., Foguet C., Gonzalez-Beltran A., Hankemeier T., Haug K., He S., Herman S., Johnson D., Kale N., Larsson A., Neumann S., Peters K., Pireddu L., Rocca-Serra P., Roger P., Rueedi R., Ruttkies C., Sadawi N., Salek R.M., Sansone S.A., Schober D., Selivanov V., Thévenot E.A., van Vliet M., Zanetti G., Steinbeck C., Kultima K. and Spjuth O. (2019). Interoperable and scalable data analysis with microservices: applications in metabolomics. *Bioinformatics*, **35**:3752-3760 (<https://doi.org/10.1093/bioinformatics/btz160>)
 
@@ -38,8 +38,8 @@ title: "Selected publications"
 
 -   Rinaudo P., Boudah S., Junot C. and Thévenot E.A. (2016). *biosigner*: a new method for the discovery of significant molecular signatures from omics data. *Frontiers in Molecular Biosciences*, **3** (<https://doi.org/10.3389/fmolb.2016.00026>)
 
--   Thévenot E.A., Roux A., Xu Y., Ezan E. and Junot C. (2015). Analysis of the human adult urinary metabolome variations with age, body mass index and gender by implementing a comprehensive workflow for univariate and OPLS statistical analyses. *Journal of Proteome Research*, **14**:3322-3335 (<https://doi.org/10.1021/acs.jproteome.5b00354>)
-
 -   Giacomoni F., Le Corguille G., Monsoor M., Landi M., Pericard P., Petera M., Duperier C., Tremblay-Franco M., Martin J.-F., Jacob D., Goulitquer S., Thévenot E.A. and Caron C. (2015). Workflow4Metabolomics: A collaborative research infrastructure for computational metabolomics. *Bioinformatics*, **31**:1493-1495 (<https://doi.org/10.1093/bioinformatics/btu813>)
 
--   Lenuzza N., Duval X., Nicolas G., Thévenot E., Job S., Videau O., Narjoz C., Loriot M.-A., Beaune P., Becquemont L., Mentre F., Funck-Brentano C., Alavoine L., Arnaud P., Delaforge M. and Benech H. (2016). Safety and pharmacokinetics of the CIME combination of drugs and their metabolites after a single oral dosing in healthy volunteers. *European Journal of Drug Metabolism and Pharmacokinetics*, **41**:125-138 (<https://doi.org/10.1007/s13318-014-0239-0>)
+-   Thévenot E.A., Roux A., Xu Y., Ezan E. and Junot C. (2015). Analysis of the human adult urinary metabolome variations with age, body mass index and gender by implementing a comprehensive workflow for univariate and OPLS statistical analyses. *Journal of Proteome Research*, **14**:3322-3335 (<https://doi.org/10.1021/acs.jproteome.5b00354>)
+
+<!-- -   Lenuzza N., Duval X., Nicolas G., Thévenot E., Job S., Videau O., Narjoz C., Loriot M.-A., Beaune P., Becquemont L., Mentre F., Funck-Brentano C., Alavoine L., Arnaud P., Delaforge M. and Benech H. (2016). Safety and pharmacokinetics of the CIME combination of drugs and their metabolites after a single oral dosing in healthy volunteers. *European Journal of Drug Metabolism and Pharmacokinetics*, **41**:125-138 (<https://doi.org/10.1007/s13318-014-0239-0>) -->
