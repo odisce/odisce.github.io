@@ -2,7 +2,7 @@
 title: "Selected publications"
 ---
 
--   Delabrière A., Gianfrotta G., Dechaumet S., Damont A., Hautbergue T., Roger P., Jamin E.L., Puel O., Junot C., Fenaille F. and Thévenot E.A. (2025) mineMS2: Annotation of spectral libraries with exact fragmentation patterns. *ChemRxiv*, Preprint (<https://doi.org/10.26434/chemrxiv-2025-3c9z1>)
+-   Delabrière A., Gianfrotta G., Dechaumet S., Damont A., Hautbergue T., Roger P., Jamin E.L., Puel O., Junot C., Fenaille F. and Thévenot E.A. (2025) mineMS2: Annotation of spectral libraries with exact fragmentation patterns. *Journal of Cheminformatics*, **17**:111 (<https://doi.org/10.1186/s13321-025-01051-y>)
 
 -   Delporte C., Tremblay-Franco M., Guitton Y., Canlet C., Weber R.J.M., Hecht H., Price E.J., Klánová J., Joly C., Dalle C., Saint-Vanne J., Thévenot E., Schmitz I., Chéreau S., Dechaumet S., Diémé B., Giacomoni F., Le Corguillé G., Pétéra M. and Souard F. (2025). Workflow4Metabolomics (W4M): A user-friendly metabolomics platform for analysis of mass spectrometry and nuclear magnetic resonance data. *Current Protocols*, **5**:e70095 (<https://doi.org/10.1002/cpz1.70095>)
 

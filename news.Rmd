@@ -2,6 +2,8 @@
 title: "News"
 ---
 
+-   July 2025: **mineMS2** article now available in **Journal of Cheminformatics** (<https://doi.org/10.1186/s13321-025-01051-y>)
+
 -   July 2025: Release of the **DIANMF package** for the **processing of SWATH-DIA metabolomics data** (<https://github.com/odisce/DIANMF/>)
 
 -   June 2025: **Workshop** on the **automated building of MS/MS spectral databases** at the **RFMF Conference** (<https://17-js-rfmf-2025.sciencesconf.org/>)
