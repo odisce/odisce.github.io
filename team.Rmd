@@ -6,17 +6,17 @@ title: "Team"
 
 -   Anaghim Temtem
 
--   Pinart Paul-Henri
-
--   Diana Karaki
+-   Paul-Henri Pinart
 
 -   Sylvain Dechaumet
 
 -   Etienne Thévenot
 
-<center>![](images/team.png){width="500"}</center>
+<center>![](images/team.jpg){width="500"}</center>
 
 ## **Alumni**
+
+-   Diana Karaki
 
 -   Coline Gianfrotta
 

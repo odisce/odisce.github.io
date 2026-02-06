@@ -2,6 +2,8 @@
 title: "News"
 ---
 
+-   January 2026: Congratulations to Diana on her PhD defense (<https://theses.hal.science/tel-05477999>)
+
 -   July 2025: **mineMS2** article now available in **Journal of Cheminformatics** (<https://doi.org/10.1186/s13321-025-01051-y>)
 
 -   July 2025: Release of the **DIANMF package** for the **processing of SWATH-DIA metabolomics data** (<https://github.com/odisce/DIANMF/>)
