@@ -6,7 +6,7 @@ title: "Contact"
 
 **Etienne A. Thévenot, PhD, HDR**
 
-Director of Research in computer sciences
+Director of research in computer sciences
 
 -   Head of the Metabolomics Data Sciences for Health team ([Odiscé](https://odisce.github.io/))
 -   Laboratoire Innovations en spectrométrie de Masse pour la Santé ([LI-MS](https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/medicines_healthcare_technologies/spi/lims.aspx))
